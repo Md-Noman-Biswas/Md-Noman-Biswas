@@ -1,11 +1,3 @@
-<!-- ============================================================
-     GitHub profile README  —  Md-Noman-Biswas/Md-Noman-Biswas
-     Facts sourced from Md_Noman_Biswas_Sibly_CV.pdf and
-     profile-knowledge.md. Publication details live on the CV
-     and the portfolio site, not here.
-     HEADER: option 6 of header-samples.html (minimal academic).
-     ============================================================ -->
-
 <div align="center">
 
 <h1>Md. Noman Biswas Sibly</h1>
@@ -60,7 +52,6 @@ interpretable AI. If that fits your group, reach me at
 |---|---|---|
 | **Research Assistant** (part-time, remote) <br/> Mechanistic interpretability of neural networks, making predictions explainable | ELITE Research Lab | 2026 – Present |
 | **AI &amp; ML Trainee** <br/> Applied ML, from preprocessing through tuning and evaluation | BDSET | 2025 – 2026 |
-| **Programming Mentor** <br/> Taught algorithms and debugging, guided students through contest prep | RUET Analytical Programming Lab | 2024 – 2025 |
 
 ## Technical Skills
 
