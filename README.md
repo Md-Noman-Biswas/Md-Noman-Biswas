@@ -40,11 +40,11 @@ interpretable AI. If that fits your group, reach me at
 
 ## Research Interests
 
-| | |
-|---|---|
-| 🛡️ Trustworthy &amp; explainable AI | 🔍 Mechanistic interpretability |
-| 🩻 Medical image analysis under noise | 🧠 Deep learning &amp; computer vision |
-| 🖼️ Vision–language models &amp; multimodal reliability | ⚙️ Efficient &amp; embedded ML (TinyML) |
+<table>
+<tr><td>🛡️ Trustworthy &amp; explainable AI</td><td>🔍 Mechanistic interpretability</td></tr>
+<tr><td>🩻 Medical image analysis under noise</td><td>🧠 Deep learning &amp; computer vision</td></tr>
+<tr><td>🖼️ Vision–language models &amp; multimodal reliability</td><td>⚙️ Efficient &amp; embedded ML (TinyML)</td></tr>
+</table>
 
 ## Experience
 
@@ -92,7 +92,7 @@ Also work with LLM fine-tuning, RAG, and verification methods for multimodal sys
 <br/>
 
 📄 Publications, projects, and full details on my
-**[CV](https://md-noman-biswas.github.io/assets/pdf/resume_Md._Noman_Biswas_Sibly.pdf)**
+**[CV](https://md-noman-biswas.github.io/assets/pdf/Md_Noman_Biswas_Sibly_CV.pdf)**
 and **[portfolio](https://md-noman-biswas.github.io/)**.
 
 </div>
