@@ -23,7 +23,8 @@
 
 I'm a final-year **B.Sc. student in Electrical &amp; Computer Engineering** at
 [Rajshahi University of Engineering &amp; Technology (RUET)](https://www.ruet.ac.bd/),
-Bangladesh, and a part-time research assistant at ELITE Research Lab.
+Bangladesh, and a part-time research assistant at
+[ELITE Research Lab](https://www.elitelab.ai/).
 
 My work sits between **trustworthy AI**, deep learning, and computer vision. The question
 I keep coming back to is what happens to a model once the data stops being clean.
@@ -50,7 +51,7 @@ interpretable AI. If that fits your group, reach me at
 
 | Role | Where | When |
 |---|---|---|
-| **Research Assistant** (part-time, remote) <br/> Mechanistic interpretability of neural networks, making predictions explainable | ELITE Research Lab | 2026 – Present |
+| **Research Assistant** (part-time, remote) <br/> Mechanistic interpretability of neural networks, making predictions explainable | [ELITE Research Lab](https://www.elitelab.ai/) | 2026 – Present |
 | **AI &amp; ML Trainee** <br/> Applied ML, from preprocessing through tuning and evaluation | BDSET | 2025 – 2026 |
 
 ## Technical Skills
